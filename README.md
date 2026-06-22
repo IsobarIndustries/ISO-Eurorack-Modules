@@ -25,6 +25,8 @@ In this repository, you'll find PDF manuals for all of my Eurorack modules. Thes
 4HP Eurorack 4 channel color coded buffered multiple
 ### **Umbra**
 10HP Eurorack stereo feedback accumulator & VCA
+### **Serratus**
+24HP Polymorphic Comb & Mutation Engine
 
 ## ∴ Support ∴
 
@@ -33,12 +35,6 @@ If you need additional support or have questions about our modules:
 - Visit my website: [www.isobarindustries.com](http://www.isobarindustries.com)
 - Visit my [Etsy Store](https://isobarindustries.etsy.com)
 - Email me: isobarindustries@gmail.com
-
-## ∴ How to Use This Repository ∴
-
-1. Navigate to the 'Manuals' folder in this repository.
-2. Find the PDF manual for your specific module.
-3. Click on the file to view it directly on GitHub, or download it for offline reference.
 
 ## License
 
