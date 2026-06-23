@@ -32,7 +32,7 @@ In this repository, you'll find PDF manuals for all of my Eurorack modules. Thes
 
 If you need additional support or have questions about our modules:
 
-- Visit my website: [www.isobarindustries.com](http://www.isobarindustries.com)
+- Visit my website:
 - Visit my [Etsy Store](https://isobarindustries.etsy.com)
 - Email me: isobarindustries@gmail.com
 
